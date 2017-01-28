@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% include image.html
+    img="assets/img/PerceptionExample.png"
+    title="PerceptionExample"
+    width="600"
+    caption="From sensory perception to (in)action" %}
+
 Whether we are crossing a street or evaluating the temperature of our drink our brain
 constantly senses the environment, processes relevant information and hopefully produces
 appropriate reactions to the environment.  
