@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Martin Haesemeyer is a Research Associate at Harvard University working the labs of Florian
+Martin Haesemeyer is a Research Associate at Harvard University working in the labs of Florian
 Engert and Alexander Schier. His main interest lies in understanding how the brain computes
 and how it represents information. To this end he employs a range of technologies from
 high-speed behavioral recording and manipulation to functional calcium imaging in larval
@@ -14,7 +14,8 @@ He studied Biology at the University of Cologne, Germany completing his master's
 the lab of Ruth Lehmann at the Skirball Institute in New York on the transmigration of
 *Drosophila melanogaster* immune cells during development. He was awarded his PhD from the
 University of Vienna, Austria, for his work in the lab of Barry Dickson on elucidating
-how a small set of neurons orchestrates the behavioral post-mating switch in *Drosophila melanogaster*.
+how a small set of neurons orchestrates the behavioral post-mating switch in
+*Drosophila melanogaster*.
 
 
 ### Publications
