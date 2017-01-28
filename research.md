@@ -1,5 +1,11 @@
 ---
 layout: page
-title: Research
 permalink: /research/
 ---
+TBD - detailed description of research direction.
+
+### Larval Zebrafish
+
+### Heat perception
+
+### Visual perception
