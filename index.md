@@ -22,6 +22,11 @@ It is my overall goal to understand how groups of neurons in the brain interact 
 and interpret information about the world in order to generate appopriate behaviors.
 
 ## From sensory input to behavior in heat sensation
+{% include image.html
+    img="assets/data/HeatGradient.png"
+    title="Heat Avoidance"
+    width="700"
+    caption="Heat avoidance by larval zebrafish in a gradient (arrowheads indicate wall-hugging behavior)" %}
 In a heat gradient larval zebrafish will avoid areas of hot temperature and seek out cooler
 regions. Staying within water of the right temperature is likely critical for survival
 especially since zebrafish can't regulate their body temperature. To accomplish this task
