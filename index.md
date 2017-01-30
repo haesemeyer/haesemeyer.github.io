@@ -32,9 +32,13 @@ regions. Staying within water of the right temperature is likely critical for su
 especially since zebrafish can't regulate their body temperature. To accomplish this task
 larval zebrafish need to sense temperature and modulate their behavior in a way that drives
 them away from heat.
-
+{% include image.html
+    img="assets/data/IBI_TempGradient.png"
+    title="Interbout modulation"
+    width="450"
+    caption="Modulation of inter-bout-interval in the heat gradient" %}
 Behavior is indeed modulated by temperature and one of the most striking
-changes is a decrease in rest intervals between swims (interbout intervals). This leads to
+changes is a decrease in rest intervals between swims (inter-bout-intervals). This leads to
 increased activity in warmer regions driving fish into cooler waters.
 
 The question then becomes how temperature influences swim initiation or more specifically:
