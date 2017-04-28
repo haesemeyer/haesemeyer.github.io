@@ -29,6 +29,20 @@ closed- loop experiments.
     caption="ZebraTrack"
     url="https://haesemeyer.github.io/ZebraTrack/" %}
 
+### RegionSelector
+{% include github-link.html link="haesemeyer/RegionSelector" name="RegionSelector" %} is
+a python and qt5 based program, tested on OsX and Windows, to annotate regions in 3D image stacks.  
+The program supports
+named polygon regions with an arbitrary number of vertices. Regions can be propagated
+between adjacent slices for faster annotation and can be saved to and loaded from simply
+structured hdf5 files.
+
+{% include image.html
+    img="assets/scr/RegionSelUI.png"
+    title="RegionSelector"
+    width="550"
+    caption="RegionSelector user interface with a partially annotated zebrafish brain" %}
+
 ### MhAPI
 {% include github-link.html link="haesemeyer/MhAPI" name="MhAPI" %} bundles code that makes
 it easier to write user-interface code, do simple image manipulations, track freely swimming
