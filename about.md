@@ -19,6 +19,10 @@ how a small set of neurons orchestrates the behavioral post-mating switch in
 
 
 ### Publications
+**Haesemeyer, M.**, Robson, D. N., Li, J. M., Schier, A. F., & Engert, F. (2017).
+A brain wide circuit model of heat evoked swimming behavior in larval zebrafish. bioRxiv, 190447.
+[Link](https://www.biorxiv.org/content/early/2017/09/18/190447)
+
 **Haesemeyer, M.**, Robson, D. N., Li, J. M., Schier, A. F., & Engert, F. (2015).
 The Structure and Timescales of Heat Perception in Larval Zebrafish.
 Cell systems, 1(5), 338-348.
