@@ -4,60 +4,20 @@ layout: default
 {% include image.html
     img="assets/img/PerceptionExample.png"
     title="PerceptionExample"
-    width="500"
+    width="450"
     caption="From sensory perception to (in)action" %}
 
-Whether we are crossing a street or evaluating the temperature of our drink our brain
+Whether we are crossing the street or evaluating the temperature of our drink our brain
 constantly senses the environment, processes relevant information and hopefully produces
 appropriate reactions to the environment. This feat relies on the coordinated interplay of many critical building blocks. Sensory 
 organs such as our eyes or temperature receptors in our skin need to detect features of
 our surroundings. This information has to be accurately relayed to our brain which then
-integrates the sensory information to "make sense of it all".  
-At the same time the meaning of sensory input is not absolute. A desirable temperature
-for a cup of coffee is generally not considered appropriate for a glass of beer. Simiarly
+integrates the sensory information to "make sense of it all". At the same time the meaning of sensory input is not absolute. A desirable temperature
+for a cup of coffee is generally not considered appropriate for a glass of beer. Similarly
 strategies for crossing a street differ whether traffic runs on the right or left. The brain
 therefore needs to take context into account when processing sensory cues.
 
 It is my overall goal to understand how groups of neurons in the brain interact to encode
 and interpret information about the world in order to generate appopriate behaviors.
 
-## From sensory input to behavior in heat sensation
-{% include image.html
-    img="assets/data/HeatGradient.png"
-    title="Heat Avoidance"
-    width="700"
-    caption="Heat avoidance by larval zebrafish in a gradient (arrowheads indicate wall-hugging behavior)" %}
-In a heat gradient larval zebrafish will avoid areas of hot temperature and seek out cooler
-regions. Staying within water of the right temperature is likely critical for survival
-especially since zebrafish can't regulate their body temperature. To accomplish this task
-larval zebrafish need to sense temperature and modulate their behavior in a way that drives
-them away from heat.
-{% include image.html
-    img="assets/data/IBI_TempGradient.png"
-    title="Interbout modulation"
-    width="450"
-    caption="Modulation of inter-bout-interval in the heat gradient" %}
-Behavior is indeed modulated by temperature and one of the most striking
-changes is a decrease in rest intervals between swims (inter-bout-intervals). This leads to
-increased activity in warmer regions driving fish into cooler waters.
-
-The question then becomes how temperature influences swim initiation or more specifically:
-
-1. Over what timescale does larval zebrafish sample temperature information?
-2. If temperature changes over time how does this influence swim initiation?
-
-The first question is related to accuracy and reaction time. The faster larval zebrafish
-"completes a measurement" the faster it can react to changes in the environment. However,
-measurements are rarely perfect and longer sampling times likely improve accuracy. Through
-precise temperature stimulation and behavioral modeling in freely swimming larval zebrafish
-we could establish that:
-
-1. Larval zebrafish sample temperature over the fast timescale of 0.5 seconds before deciding
-to initiate swims, allowing them to react quickly to changes in their environment.
-2. Within this time interval both absolute temperature and perceived changes in heat
-influence swimming.
-
-The latter point effectively means that larval zebrafish react especially quickly to changes
-in temperature followed by slight adaptation. This strategy may allow them to quickly try
-and escape an area of higher temperature while conserving energy in case this is not
-immediately possible.
+To this end I am using larval zebrafish as a model system. Due to its transparency and small size this vertebrate model allows all optical access to the entire brain. This creates the unique opportunity of identifying brain regions that are relevant for a task in an unbiased manner. I subsequently use quantitative modeling to fully characterize how the brain encodes sensory stimuli and how it creates adaptive behaviors. **These quantitative circuit models form an important step towards understanding computation as they generate testable hypotheses of how neural circuits process information**. *See [research](/research/) for details.*
