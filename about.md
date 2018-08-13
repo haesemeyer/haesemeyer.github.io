@@ -19,6 +19,11 @@ how a small set of neurons orchestrates the behavioral post-mating switch in
 
 
 ### Publications
+**Haesemeyer, M.**, Schier, A. F., & Engert, F. (2018).
+Convergent temperature representations in artificial and biological neural networks.
+bioRxiv 390435; doi: https://doi.org/10.1101/390435
+[Link](https://www.biorxiv.org/content/early/2018/08/12/390435)
+
 **Haesemeyer, M.**, Robson, D. N., Li, J. M., Schier, A. F., & Engert, F. (2018).
 A brain wide circuit model of heat evoked swimming behavior in larval zebrafish. Neuron, 98(4), 817-831.
 [Link](https://www.cell.com/neuron/fulltext/S0896-6273(18)30297-6)
