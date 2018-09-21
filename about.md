@@ -28,6 +28,10 @@ bioRxiv 390435; doi: https://doi.org/10.1101/390435
 A brain wide circuit model of heat evoked swimming behavior in larval zebrafish. Neuron, 98(4), 817-831.
 [Link](https://www.cell.com/neuron/fulltext/S0896-6273(18)30297-6)
 
+Randlett, O., **Haesemeyer, M.**, Forkin, G., Shoenhard, H., Schier, A. F., Engert, F., & Granato, M. (2018).
+Distributed plasticity drives visual habituation learning in larval zebrafish. bioRxiv 418178.
+[Link](https://www.biorxiv.org/content/early/2018/09/14/418178)
+
 **Haesemeyer, M.**, Robson, D. N., Li, J. M., Schier, A. F., & Engert, F. (2015).
 The Structure and Timescales of Heat Perception in Larval Zebrafish.
 Cell systems, 1(5), 338-348.
