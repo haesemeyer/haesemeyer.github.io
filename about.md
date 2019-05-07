@@ -21,7 +21,7 @@ how a small set of neurons orchestrates the behavioral post-mating switch in
 ### Publications
 Randlett, O., **Haesemeyer, M.**, Forkin, G., Shoenhard, H., Schier, A. F., Engert, F., & Granato, M. (2019).
 Distributed plasticity drives visual habituation learning in larval zebrafish.
-Current Biology, 29, 1-9.
+Current Biology, 29(8), 1337-1345.
 [Link](https://www.cell.com/current-biology/fulltext/S0960-9822(19)30209-X)
 
 **Haesemeyer, M.**, Schier, A. F., & Engert, F. (2018).
