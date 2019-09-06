@@ -19,6 +19,11 @@ how a small set of neurons orchestrates the behavioral post-mating switch in
 
 
 ### Publications
+Bolton, A. D., **Haesemeyer, M.**, Jordi, J., Schaechtle, U., Saad, F. A., Mansinghka, V. K., Tenenbaum, J. B., & Engert, F. (2019).
+Elements of a stochastic 3D prediction engine in larval zebrafish prey capture.
+bioRxiv 755777
+[Link](https://www.biorxiv.org/content/10.1101/755777v1)
+
 **Haesemeyer, M.**, Schier, A. F., & Engert, F. (2019).
 Convergent temperature representations in artificial and biological neural networks.
 _Neuron, 103._
