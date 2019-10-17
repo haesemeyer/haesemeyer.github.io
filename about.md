@@ -26,7 +26,7 @@ bioRxiv 755777
 
 **Haesemeyer, M.**, Schier, A. F., & Engert, F. (2019).
 Convergent temperature representations in artificial and biological neural networks.
-_Neuron, 103._
+_Neuron, 103(6), 1123-1134._
 [Link](https://www.cell.com/neuron/fulltext/S0896-6273(19)30601-4)
 
 Randlett, O., **Haesemeyer, M.**, Forkin, G., Shoenhard, H., Schier, A. F., Engert, F., & Granato, M. (2019).
